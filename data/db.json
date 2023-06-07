@@ -1,0 +1,34 @@
+{
+  "products":
+[
+  {
+    "id": 1,
+    "name": "computer",
+    "price": 6000,
+    "promotion": false,
+    "stars": 5,
+    "image": "images/1.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam fermentum odio odio, nec laoreet ante ultrices nec. Morbi bibendum dui sed erat volutpat, nec ultricies mi efficitur. "
+  },
+  {
+    "id": 2,
+    "name": "tablet",
+    "price": 6000,
+    "promotion": false,
+    "stars": 5,
+    "image": "images/3.jpg",
+    "description": "Aenean commodo risus a blandit cursus. Sed pulvinar, risus at commodo accumsan, eros arcu imperdiet mauris,"
+
+  },
+  {
+    "id": 2,
+    "name": "phone",
+    "price": 6000,
+    "promotion": false,
+    "stars": 5,
+    "image": "images/2.jpg",
+    "description": "vel maximus tortor mauris non est. Suspendisse vulputate, turpis ac vestibulum lobortis, nisi neque pulvinar dui, sed rutrum mauris sem vel urna."
+
+  }
+]
+}
